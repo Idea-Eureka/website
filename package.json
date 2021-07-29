@@ -5,9 +5,8 @@
   "description": "This is the Idea Eureka website that would promote the company and showcase different projects completed and projects under construction. It would also state the Our Mission, Vision and Core Values. ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm run build",
-    "deploy": "gh-pages -d docs"
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "deploy": "gh-pages -d"
   },
   "repository": {
     "type": "git",
