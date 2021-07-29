@@ -1,8 +1,6 @@
-# Idea Eureka website
-Idea Eureka
+# Idea Eureka website 
 
-This is Idea Eureka Portfolio Website that would be accessible to the public.
+This is Idea Eureka Portfolio Website that would be accessible to the public. 
 
-# The Website is published here 
 
- https://idea-eureka.github.io/website/
+See [Idea Eureka Website]( https://idea-eureka.github.io/website/).
