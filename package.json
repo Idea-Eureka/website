@@ -5,7 +5,7 @@
   "description": "This is the Idea Eureka website that would promote the company and showcase different projects completed and projects under construction. It would also state the Our Mission, Vision and Core Values. ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
+    "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d"
   },
   "repository": {
@@ -21,8 +21,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Idea-Eureka/website/issues"
-  }, 
-  "dependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  },
+  "dependencies": {}
 }
