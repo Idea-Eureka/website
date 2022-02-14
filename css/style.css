@@ -142,7 +142,7 @@ p {
 }
 
 .navStyle ul li:first-child {
-	/*margin:0px;*/;
+	/*margin:0px;*/
 }
 
 .navStyle ul li:last-child {
@@ -407,7 +407,6 @@ text-align: left;
 }
 
 .service-list-col1 i {
-    display:;
     color: #888;
     font-size: 19px;
     font-style: normal;
@@ -1235,6 +1234,13 @@ margin-bottom: 5px;
     position: relative;
 }
 
+#portfolio_wrapper .one-five {
+    line-height: 0;
+    width: 25%;
+    padding: 0;
+    position: relative;
+}
+
 .portfolio-item {
     padding: 0;
     position: relative;
@@ -1750,7 +1756,7 @@ margin: 0 18px;
 .page_section.team{
 padding: 40px 0;
 }
-, #clients {
+#clients {
 padding: 40px 0;
 }
 .client_logos ul li {
